@@ -4,6 +4,12 @@
 
 <p align="center"><a href="https://union.useseletto.com/">Conheça o Union</a> · <a href="https://union.useseletto.com/app/?view=messages">Abrir no navegador</a> · <a href="https://union.useseletto.com/downloads.html">Baixar para Windows</a></p>
 
+## O que é o Union by UseSeletto?
+
+O Union by UseSeletto é um aplicativo de comunicação para comunidades, mensagens de texto e chamadas de voz e vídeo. É desenvolvido pela UseSeletto Technology, com acesso pelo navegador e versão beta para Windows.
+
+Site oficial: **[union.useseletto.com](https://union.useseletto.com/)**. [Leia a apresentação e as perguntas frequentes](https://union.useseletto.com/sobre.html).
+
 ## Um espaço para estar junto
 
 A call depois do jogo. A ideia que virou projeto. O papo que foi longe. O Union reúne sua galera em um lugar para conversar, compartilhar a tela e organizar comunidades.
